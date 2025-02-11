@@ -1,0 +1,87 @@
+body {
+    background-color: gray;
+}
+
+#container {
+    background-color: white;
+    width: 80%;
+    margin: 20px auto;
+    border: 2px solid black;
+    padding: 20px;
+}
+
+#banner{
+    width: 100%;
+}
+
+#col1{
+    width: 50%;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+}
+
+#col2 {
+    width: 50%;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+}
+
+.heading_style {
+    text-shadow: 3px 1px 2px #a45924;
+}
+
+.turkey_post{
+    width: 30%;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+}
+
+nav {
+    text-align: center;
+    margin: 20px 0;
+    background-color: lightgray;
+    border-radius: 15px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline-block;
+}
+
+nav li a {
+    display: block;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    text-decoration: none;
+    margin: 0 15px;
+    width: 125px;
+    height: 40px;
+    line-height: 40px;
+}
+
+nav a:hover {
+    background-color: white;
+    color: black;
+}
+
+#two_col {
+    display: flex;
+}
+
+h1,
+h2, 
+h3,
+footer {
+    text-align: center;
+}
