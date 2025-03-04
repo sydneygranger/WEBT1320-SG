@@ -41,6 +41,7 @@ img{
         font-size: 20px;
         text-decoration: none;
         margin-top: 8px;
+        font-family: "Big Shoulders", sans-serif;
     }
 
     nav li a:hover {
@@ -55,6 +56,9 @@ img{
         text-align: center;
         color: #D9CCC5;
         text-shadow: 1px 1px 1px #000;
+            font-family: "Big Shoulders", sans-serif;
+            font-optical-sizing: auto;
+           
     }
 
     footer{
@@ -71,9 +75,11 @@ img{
         width: 80%;
         margin: 0 auto;
     }
+
     nav li{
         display: inline-block;
     }
+
     nav li a{
         width: 150px;
         margin: 5px;
@@ -81,7 +87,9 @@ img{
         line-height: 50px;
         color: white;
         font-size: 30px;
+        font-family: "Big Shoulders", sans-serif;
     }
+
     .turkey_post{
         width: 45%;
         border-radius: 10px;
@@ -106,6 +114,7 @@ img{
 
     nav li a{
         background-color: black;
+        font-family: "Big Shoulders", sans-serif;
     }
         
     hr{
